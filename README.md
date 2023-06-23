@@ -5,3 +5,13 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora rerum unde ea d
 ## About Me
 #### I'm Tanvir 
 Follow Me on [Facebook](www.facebook.com/Tanvir.rl "facebook profile") 
+
+``
+[module|type][function|scope] commit summary #ticketID
+e.g.
+[api][users] add GET & POST endpoints
+[test][users] update unit & REST-based tests
+[scripts] add env flag to specify deployment environment 
+[libs] migrate to node@12.14.1 
+[ci] release v2.1.34 for QA #GT-208
+``
